@@ -1,0 +1,8 @@
+{
+  "message": "Hello!",
+  "an_apiview": [
+    "uses HTTP methods as function(get, post, patch, put ,delete)",
+    "It is similar to a traditional Django view",
+    "Gives you the most control over your logic"
+  ]
+}
