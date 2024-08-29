@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b32685b-8c9b-4a4c-b54b-6f5e4857e5c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy/nginx_profiles_api.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/server_setup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/supervisor_profiles_api.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profileApi/migrations/0002_profilefeeditem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profileApi/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profileApi/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="2b32685b-8c9b-4a4c-b54b-6f5e4857e5c0" name="Changes" comment="deploy app using aws" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -141,8 +126,33 @@
       <workItem from="1723972002952" duration="3543000" />
       <workItem from="1724008011531" duration="217000" />
       <workItem from="1724871807279" duration="1670000" />
-      <workItem from="1724884379113" duration="6802000" />
+      <workItem from="1724884379113" duration="7114000" />
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="deploy app using aws">
+      <option name="closed" value="true" />
+      <created>1724893036300</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1724893036300</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٢" summary="deploy app using aws">
+      <option name="closed" value="true" />
+      <created>1724893061954</created>
+      <option name="number" value="٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1724893061954</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٣" summary="deploy app using aws">
+      <option name="closed" value="true" />
+      <created>1724893110953</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1724893110953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,5 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first app with rest full api" />
+    <MESSAGE value="deploy app using aws" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy app using aws" />
   </component>
 </project>
